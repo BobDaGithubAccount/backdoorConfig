@@ -1,4 +1,4 @@
 Dev
 false
 false
-tps
+reload confirm
